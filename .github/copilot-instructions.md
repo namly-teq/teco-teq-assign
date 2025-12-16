@@ -264,7 +264,7 @@ Better approach:
 This keeps Button reusable and testable.  Should I refactor it this way?"
 ```
 
-##📚 Additional Resources
+## 📚 Additional Resources
 
 For detailed patterns and deep dives:
 
