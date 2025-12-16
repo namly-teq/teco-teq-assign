@@ -9,6 +9,7 @@ UI components are **presentational, reusable building blocks** of your design sy
 Think:  buttons, inputs, cards, badges, modals, dropdowns. 
 
 ### Core Principles:
+- ✅ **Container-Presentational Pattern** - Build presentational component only
 - ✅ **Pure & Predictable:** Same props always produce same output
 - ✅ **Reusable:** Can be used anywhere in the app
 - ✅ **No Business Logic:** No API calls, no auth checks, no feature-specific code

@@ -268,10 +268,9 @@ This keeps Button reusable and testable.  Should I refactor it this way?"
 
 For detailed patterns and deep dives:
 
-- **UI components guidelines:** `.github/ui.instructions.md`
-- **Feature components guidelines:** `.github/feature.instructions.md`
-- **API Integration:** `.github/copilot-instructions/api-integration.md`
-- **Accessibility:** `.github/copilot-instructions/accessibility.md`
-- **Performance:** `.github/copilot-instructions/performance.md`
+- **UI components guidelines:** `.github/ui-instructions.md`
+- **Feature components guidelines:** `.github/feature-instructions.md`
+- **Hooks guidelines:** `.github/hooks-instructions.md`
+- **Service Integration:** `.github/service-instructions.md`
 
 ---

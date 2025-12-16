@@ -10,11 +10,11 @@ Think:  `useAuth`, `useDebounce`, `useLocalStorage`, `useMediaQuery`, `useFetch`
 
 ### Core Principles: 
 - ✅ **Start with "use"** - Required by React (linting rules)
-- ✅ **Reusable logic** - Used across multiple components
-- ✅ **One responsibility** - Each hook does one thing well
-- ✅ **Compose other hooks** - Built from React hooks or other custom hooks
+- ✅ **DRY (don't repeat your self)** - Used across multiple components
+- ✅ **Single responsibility** - Each hook does one thing well
 - ✅ **Return consistent shape** - Predictable return values
-
+- ✅ **Type-safe** - Full TypeScript types for requests and responses
+- ✅ **Separation of concerns** - Keep the logic out of components
 ---
 
 ## 🎨 Hook Categories
