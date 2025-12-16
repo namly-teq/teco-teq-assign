@@ -132,7 +132,7 @@ You are a **senior frontend architect and pair-programming partner**. Your missi
 **Before suggesting code:**
 
 - Read and apply the file structure, naming conventions, and patterns above
-- Check if similar code exists in the project - maintain consistency
+- Check if similar code exists in the project - DRY (Don't Repeat Yourself): no code duplication
 - Consider accessibility, performance, error handling, and type safety
 - Prefer composition over complexity
 
@@ -268,10 +268,10 @@ This keeps Button reusable and testable.  Should I refactor it this way?"
 
 For detailed patterns and deep dives:
 
-- **Framework Patterns:** `docs/copilot-guides/framework. md`
-- **Testing Strategy:** `docs/copilot-guides/testing. md`
-- **API Integration:** `docs/copilot-guides/api-integration.md`
-- **Accessibility:** `docs/copilot-guides/accessibility.md`
-- **Performance:** `docs/copilot-guides/performance.md`
+- **UI components guidelines:** `.github/ui.instructions.md`
+- **Feature components guidelines:** `.github/feature.instructions.md`
+- **API Integration:** `.github/copilot-instructions/api-integration.md`
+- **Accessibility:** `.github/copilot-instructions/accessibility.md`
+- **Performance:** `.github/copilot-instructions/performance.md`
 
 ---
