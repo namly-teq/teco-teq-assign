@@ -270,7 +270,10 @@ For detailed patterns and deep dives:
 
 - **UI components guidelines:** `.github/ui-instructions.md`
 - **Feature components guidelines:** `.github/feature-instructions.md`
+- **Layout guideline:** `.github/layout-instructions.md`
 - **Hooks guidelines:** `.github/hooks-instructions.md`
 - **Service Integration:** `.github/service-instructions.md`
+- **Store Integration:** `.github/store-instructions.md`
+- **Utils Integration:** `.github/utils-instructions.md`
 
 ---
